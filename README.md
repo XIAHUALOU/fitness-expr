@@ -117,5 +117,5 @@ func main(){
 
 
 ## License
-© jtthink, 2020~time.Now
+© jXIAHUALOU, 2020~time.Now
 Released under the [Apache License 2.0]
