@@ -1,4 +1,4 @@
-# Goft-Expr
+# fitness-Expr
 * golang表达式解析器和执行。
 ## 功能说明
 用过PHP丝滑的eval函数 或其他元编程支持较好的语言的同学会发现Go的元编程能力很老干妈。
